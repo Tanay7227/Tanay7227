@@ -1,4 +1,4 @@
-<img src="C:\Users\tdmta\OneDrive\Desktop\Gitintro01.jpg"/>
+<img src="https://github.com/Tanay7227/Tanay7227/blob/main/Gitintro01.jpg"/>
 
 ###
 
