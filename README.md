@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tanay Mahale and I'm a Data Analyst, from Charusat University</h2>
+<img src="C:\Users\tdmta\OneDrive\Desktop\Gitintro01.jpg"/>
 
 ###
 
