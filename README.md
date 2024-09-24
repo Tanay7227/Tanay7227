@@ -1,4 +1,4 @@
-<img src="https://github.com/Tanay7227/Tanay7227/blob/main/Gitintro01.jpg"/>
+<img src="https://github.com/Tanay7227/Tanay7227/blob/main/0101.jpg"/>
 
 <h4 align="center">Hi There👋! My Name is Tanay Mahale and I'm from India. It’s great to meet you!</h4>
 
