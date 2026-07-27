@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" width="100%"/><br/>
 
 ## 😁 About Me:
-I’m currently Working on Frontend.<br><br>💬 Ask me about Html, Css, JavaScript, Typescript, Tailwind CSS, ReactJs.<br><br>📫 How to reach me tanaydmahale123@gmail.com.<br><br>⚡ Fun fact :The QWERTY keyboard layout was intentionally designed to slow down typing speeds to keep mechanical typewriters from jamming.<br/>
+💻 I’m currently Working on Frontend.<br><br>💬 Ask me about Html, Css, JavaScript, Typescript, Tailwind CSS, ReactJs.<br><br>📫 How to reach me tanaydmahale123@gmail.com.<br><br>⚡ Fun fact :The QWERTY keyboard layout was intentionally designed to slow down typing speeds to keep mechanical typewriters from jamming.<br/>
 
 ## 📊 Activity-graph
 <div align="left">
