@@ -1,6 +1,6 @@
 <h2 align="center">Hi There👋! My Name is Tanay Mahale and I'm from Gujarat ,India. It’s great to meet you!</h2><br/><br/>
-<span align="centre" width="200px"> <img src="https://komarev.com/ghpvc/?username=tanay7227&label=Profile%20views&color=0e75b6&style=flat" alt="tanay7227" /></span><br/>
-<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" /><br/><br/>
+<!-- <span align="centre" width="200px"> <img src="https://komarev.com/ghpvc/?username=tanay7227&label=Profile%20views&color=0e75b6&style=flat" alt="tanay7227" /></span><br/> -->
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" width="100%"/><br/>
 
 # 💫 About Me:
 🌱 I’m currently Working on Frontend.<br><br>💬 Ask me about Html, Css, JavaScript, Typescript, Tailwind CSS, ReactJs.<br><br>📫 How to reach me tanaydmahale123@gmail.com.<br><br>⚡ Fun fact :The QWERTY keyboard layout was intentionally designed to slow down typing speeds to keep mechanical typewriters from jamming.<br/>
