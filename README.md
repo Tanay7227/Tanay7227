@@ -1,4 +1,4 @@
-<img src="https://github.com/Tanay7227/Tanay7227/blob/main/0101.jpg"/>
+<!-- <img src="https://github.com/Tanay7227/Tanay7227/blob/main/0101.jpg"/> -->
 
 <h4 align="center">Hi There👋! My Name is Tanay Mahale and I'm from India. It’s great to meet you!</h4>
 
@@ -7,9 +7,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanay7227&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanay7227&custom_title=Contibution%20Graph&theme=dracula&area=false&hide_border=false&hide_title=false" height="150" alt="activity-graph graph"  />
-  <!-- <img src="https://streak-stats.demolab.com?user=Tanay7227&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Tanay7227&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=My%20Github%20Stats" height="150" alt="stats graph"  /> -->
-  <!-- <img src="https://github-profile-trophy.vercel.app?username=Tanay7227&theme=onedark&no-bg=true" height="150" alt="trophy graph"  /> -->
+  <img src="https://streak-stats.demolab.com?user=Tanay7227&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanay7227&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=My%20Github%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Tanay7227&theme=onedark&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -63,9 +63,9 @@
 
 <p align="centre" width="100px"> <img src="https://komarev.com/ghpvc/?username=tanay7227&label=Profile%20views&color=0e75b6&style=flat" alt="tanay7227" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Frontend**
 
-- 💬 Ask me about **Html,Css,Js,Python,Power-Bi**
+- 💬 Ask me about **Html,Css,Js,Typescript,Tailwind CSS,ReactJs**
 
 - 📫 How to reach me **tanaydmahale123@gmail.com**
 
