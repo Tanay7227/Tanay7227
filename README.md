@@ -82,7 +82,7 @@ I’m currently Working on Frontend.<br><br>💬 Ask me about Html, Css, JavaScr
 <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="Twilio" />
 </p>
 <br/>
-## 🌐 Socials:
+<!-- ## 🌐 Socials:
 <p align="center">
   <a href="https://instagram.com/tdm_tanu">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
@@ -101,7 +101,7 @@ I’m currently Working on Frontend.<br><br>💬 Ask me about Html, Css, JavaScr
 </p>
 <br/>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tanay7227&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Tanay7227&theme=dark&no-frame=false&no-bg=true&margin-w=4) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!------------------------------------------------->
