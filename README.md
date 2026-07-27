@@ -3,16 +3,16 @@
 <!-- <span align="centre" width="200px"> <img src="https://komarev.com/ghpvc/?username=tanay7227&label=Profile%20views&color=0e75b6&style=flat" alt="tanay7227" /></span><br/> -->
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" width="100%"/><br/>
 
-## 💫 About Me:
-🌱 I’m currently Working on Frontend.<br><br>💬 Ask me about Html, Css, JavaScript, Typescript, Tailwind CSS, ReactJs.<br><br>📫 How to reach me tanaydmahale123@gmail.com.<br><br>⚡ Fun fact :The QWERTY keyboard layout was intentionally designed to slow down typing speeds to keep mechanical typewriters from jamming.<br/>
+## 😁 About Me:
+I’m currently Working on Frontend.<br><br>💬 Ask me about Html, Css, JavaScript, Typescript, Tailwind CSS, ReactJs.<br><br>📫 How to reach me tanaydmahale123@gmail.com.<br><br>⚡ Fun fact :The QWERTY keyboard layout was intentionally designed to slow down typing speeds to keep mechanical typewriters from jamming.<br/>
 
-# 📊 Activity-graph
+## 📊 Activity-graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanay7227&custom_title=Contibution%20Graph&theme=dracula&area=false&hide_border=false&hide_title=false" height="150" alt="activity-graph graph"  />
 </div><br/>
 
 # 📊 GitHub Stats:
-<div align ="centre"></div>
+<div align ="centre">
 ![](https://github-readme-stats.shion.dev/api?username=Tanay7227&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Tanay7227&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tanay7227&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
