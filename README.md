@@ -9,7 +9,7 @@ I’m currently Working on Frontend.<br><br>💬 Ask me about Html, Css, JavaScr
 ## 📊 Activity-graph
 <div align="left">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanay7227&custom_title=Contibution%20Graph&theme=dracula&area=false&hide_border=false&hide_title=false" height="200" alt="activity-graph graph"/>
-<img align="right" height="207" width="350" style = "border:1px solid white" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" align="right" height="207" width="350" style="border:1px solid white" />
 </div>
 
 ## 📊 GitHub Stats:
