@@ -10,7 +10,7 @@ I’m currently Working on Frontend.<br><br>💬 Ask me about Html, Css, JavaScr
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanay7227&custom_title=Contibution%20Graph&theme=dracula&area=false&hide_border=false&hide_title=false" height="150" alt="activity-graph graph"  />
 
-<img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5kc2d4OWpyOGZ1eHUwNXRmYm9xNmlzbW5iNTliaXNuMWVzOGY2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5kc2d4OWpyOGZ1eHUwNXRmYm9xNmlzbW5iNTliaXNuMWVzOGY2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
 </div>
 
 <br/>
